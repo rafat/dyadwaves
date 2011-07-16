@@ -14,4 +14,4 @@
 
 #2 *dwt_per* - Decimated Discrete Wavelet Transform using periodic extension.
 
-#3 *swt* - Stationary (Undecimated) Wavelet Transform. It also uses peiodi extension.
+#3 *swt* - Stationary (Undecimated) Wavelet Transform. It also uses peiodic extension.
