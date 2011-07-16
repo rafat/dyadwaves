@@ -49,3 +49,5 @@ _Example:: Individual graphs can be viewed separately by clicking on "VIEW #" bu
  https://lh6.googleusercontent.com/-8Xl05nSG2q4/TiFoQtqiFZI/AAAAAAAAAHg/JmH60fGi6WA/s800/disp1d-2.png
 
 _Example:: Graphs can also be viewed and saved in printer-friendly format(blue on white)_
+
+Please also note that "save as PDF/SVG" format will also save outputs in the five image format and uses rendering of the graph which in most cases result in better results. "Save as Image" is the quick and dirty format and will capture the pixmap as is so the results may not be up to par on many occasions. 
