@@ -51,3 +51,12 @@ _Example:: Individual graphs can be viewed separately by clicking on "VIEW #" bu
 _Example:: Graphs can also be viewed and saved in printer-friendly format(blue on white)_
 
 Please also note that "save as PDF/SVG" format will also save outputs in the five image format and uses rendering of the graph which in most cases result in better results. "Save as Image" is the quick and dirty format and will capture the pixmap as is so the results may not be up to par on many occasions. 
+
+
+=== Display:: 2D Interface ===
+
+   _2D_ interface display is similar to the 1D case minus any zoom functionality. However, if the images are large they may not fit in the application window or they may not appear proportionally to their dimensions. In such a case, you have the option of viewing full size image. There is also an option of viewing all DWT coefficients. These are liberally zeropadded in order to have a rectangular image.
+
+https://lh3.googleusercontent.com/-LDcbRToB-Gs/TiFrl-2uUaI/AAAAAAAAAHk/RsAbha0WE-U/s912/disp2d-1.png
+
+_Example:: 2D 2 level DWT View of Lena image. 
