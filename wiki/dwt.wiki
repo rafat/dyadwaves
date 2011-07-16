@@ -1,4 +1,9 @@
 == Wavelet Transform ==
 
+=== 1D::Decimated DWT (Symmetric Extension) ===
 
+ Of all the modes , this one is the best equipped to deal with signal boundary issues. Signal is symmetrically extended at every stage so there are no sharp jumps and discontinuities. On the negative side, there is some redundancy in the system as this isn't an N input N output system.
+
+https://lh4.googleusercontent.com/-PCJ9CWxHYN0/TiDyuvbZ7eI/AAAAAAAAAG4/P6K0fPb-8AE/s800/db1.png
+_Example:: 2 Level dwt_sym decomposition using db1 wavelet_
 
