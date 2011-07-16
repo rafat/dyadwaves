@@ -34,6 +34,6 @@ https://lh5.googleusercontent.com/-QngH_5PbP14/TiFV9O3zBWI/AAAAAAAAAHM/-KgdTE1cd
 
 === Input/Output ===
 
-*1D ::* 1D I/O  is very, very basic at this point. It accepts text files arranged in either one row or one column. You can save outputs (coefficients and processed signal) in the same 1D text format or you can save graphs as image/pdf/svg files.
+*1D ::* 1D I/O  is very, very basic at this point. It accepts text files arranged in either one row or one column([http://code.google.com/p/wavelet1d/source/browse/trunk/src/signal.txt Example]). You can save outputs (coefficients and processed signal) in the same 1D text format or you can save graphs as image/pdf/svg files.
 
 *2D ::* Input is in the form of images ( tif,tiff,jpeg,bmp,png). Output images can be saved in these same five formats. I expect to add more formats in upcoming versions.
