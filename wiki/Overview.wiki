@@ -4,7 +4,6 @@
 
 || [http://code.google.com/p/dyadwaves/wiki/Overview#Overview Overview] || Modes, Wavelets, Input/Output,Display ||
 || [http://code.google.com/p/dyadwaves/wiki/dwt Wavelet Transform] ||
-DWT/SWT Computation and Display in 1D and 2D||
 
 == Overview ==
 
