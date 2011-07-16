@@ -59,4 +59,8 @@ Please also note that "save as PDF/SVG" format will also save outputs in the fiv
 
 https://lh3.googleusercontent.com/-LDcbRToB-Gs/TiFrl-2uUaI/AAAAAAAAAHk/RsAbha0WE-U/s912/disp2d-1.png
 
-_Example:: 2D 2 level DWT View of Lena image. 
+_Example:: 2D 2 level DWT View of Lena image._
+
+https://lh6.googleusercontent.com/-S_vpCzN-fyU/TiFtU3DxNEI/AAAAAAAAAHo/wAAZNWo4lng/s912/disp2d-2.png
+
+_Example:: Viewing Full size IDWT Decomposition_  
