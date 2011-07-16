@@ -41,3 +41,7 @@ https://lh5.googleusercontent.com/-QngH_5PbP14/TiFV9O3zBWI/AAAAAAAAAHM/-KgdTE1cd
 === Display:: 1D Interface ===
 
   1D Interface displays input and output graphs. These graphs can be zoomed in and zoomed out. IDWT graphs have additional options of saving and viewing each graph separately as the display view can get very busy if decomposition levels are large specially if screen resolution isn't very large.
+
+https://lh3.googleusercontent.com/-ClyWKAE84Wk/TiFm_xseQwI/AAAAAAAAAHc/eh8zfhgE97o/s800/disp1d-1.png
+
+_Example:: Individual graphs can be viewed separately by clicking on "VIEW #" buttons_
