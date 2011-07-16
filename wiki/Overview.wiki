@@ -2,6 +2,8 @@
 
   DyadWaves is an easy to use GUI for 1D and 2D Wavelet Transform. This software is pretty basic with functionality consisting of computing Wavelet Transform , signal/image approximation and denoising using up to three transform modes. 
 
+|| [http://code.google.com/p/dyadwaves/wiki/Overview#Overview Overview] ||
+
 == Overview ==
 
 === Transform Modes ===
