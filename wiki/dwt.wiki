@@ -14,7 +14,7 @@ _Example:: 2 Level dwt_sym decomposition using db1 wavelet_
 
   For 1D case, an N input signal yields 2XN output coefficients at each stage. There is more redundancy but it is useful in cases where translation-invariance is needed. This software also uses SWT (alongside the other two modes) for denoising.
 
- https://lh3.googleusercontent.com/-U-xjVuBxFzk/TiIdkwlhi6I/AAAAAAAAAH4/O0-2DzK7ZIE/s800/swt.png
+https://lh3.googleusercontent.com/-U-xjVuBxFzk/TiIdkwlhi6I/AAAAAAAAAH4/O0-2DzK7ZIE/s800/swt.png
 _Example:: 2 Level SWT Decomposition of a 5400 sample signal_
 
 
