@@ -16,3 +16,11 @@ _Example:: 2 Level dwt_sym decomposition using db1 wavelet_
 
  https://lh3.googleusercontent.com/-U-xjVuBxFzk/TiIdkwlhi6I/AAAAAAAAAH4/O0-2DzK7ZIE/s800/swt.png
 _Example:: 2 Level SWT Decomposition of a 5400 sample signal_
+
+
+=== 1D::Decimated DWT (Periodic Extension) ===
+
+dwt_per mode is a N input and ~N output system and ,thus, often is the fastest scheme of the three.Although, periodic extension may sometimes result in subpar performance at the signal boundaries. Regardless, having least redundancy makes it suitable for some approximation applications.
+
+https://lh6.googleusercontent.com/-VKnKRO_8UFE/TiIeu__ks3I/AAAAAAAAAH8/H99ab3jhxxE/s800/dwt_per.png
+_Example:: 3 Level Decomposition of a piecewise regular signal using dwt with periodic extension_
