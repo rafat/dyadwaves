@@ -22,7 +22,7 @@
 
 1. *Daubechies*- 15 orthogonal wavelets are available, ranging from 2-tap filters to 30-tap filters.
 
-2. *Biorthogonal* - Symmetric filter wavelets. bior1.1 to bior6.8
+2. *Biorthogonal* - Symmetric filter non-orthogonal wavelets. bior1.1 to bior6.8
 
 3. *Coiflets* - 5 wavelets. coif1 - coif5.
 
