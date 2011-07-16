@@ -1,4 +1,3 @@
-
 = DyadWaves =
 
   DyadWaves is an easy to use GUI for 1D and 2D Wavelet Transform. This software is pretty basic with functionality consisting of computing Wavelet Transform , signal/image approximation and denoising using up to three transform modes. 
@@ -9,10 +8,8 @@
 
  There are three available modes
 
-# *dwt_sym* - Decimated Discrete Wavelet Transform using symmetric extension.
+#1 *dwt_sym* - Decimated Discrete Wavelet Transform using symmetric extension.
 
-# *dwt_per* - Decimated Discrete Wavelet Transform using periodic extension.
+#2 *dwt_per* - Decimated Discrete Wavelet Transform using periodic extension.
 
-# *swt* - Stationary (Undecimated) Wavelet Transform. It also uses peiodi extension.
-
-
+#3 *swt* - Stationary (Undecimated) Wavelet Transform. It also uses peiodi extension.
