@@ -4,3 +4,6 @@ DyadWaves uses a very simple approximation algorithm. User can select the wavele
 
 https://lh5.googleusercontent.com/-NEsIlpY4G18/TiKNvLVyVtI/AAAAAAAAAIY/WKiAwro_ds4/s800/appx1d.png
 _Example:: 1D Approximation of a 2048 sample piecewise regular signal using db4 wavelet and DWT with periodic extension_
+
+https://lh4.googleusercontent.com/-QHlZhwBozhk/TiKN4ptfvcI/AAAAAAAAAIc/Ff1VrqSufHQ/s800/appx2d.png
+_Example:: 2D Approximation of Lena 512X512 grayscale image using db4 wavelet and DWT with periodic extension_
