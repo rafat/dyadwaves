@@ -4,6 +4,7 @@
 
 || [http://code.google.com/p/dyadwaves/wiki/Overview#Overview Overview] || Modes, Wavelets, Input/Output,Display ||
 || [http://code.google.com/p/dyadwaves/wiki/dwt Wavelet Transform] || DWT/SWT Computation in 1D and 2D ||
+|| [http://code.google.com/p/dyadwaves/wiki/appx Approximation] || Signal and Image Approximation ||
 
 == Overview ==
 
