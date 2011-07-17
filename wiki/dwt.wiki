@@ -46,3 +46,4 @@ _Example:: 2 Level SWT Decomposition of a color image_
 
 
 https://lh3.googleusercontent.com/-Q0mOx66G6G8/TiIqHqai9rI/AAAAAAAAAII/GngqJBmFx0Q/s800/dwt2dper2.png
+_Example:: 3 Level Decomposition of a 256-by256 image using dwt (periodic extension)_
