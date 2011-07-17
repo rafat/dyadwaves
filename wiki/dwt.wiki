@@ -24,3 +24,11 @@ dwt_per mode is a N input and ~N output system and ,thus, often is the fastest s
 
 https://lh6.googleusercontent.com/-VKnKRO_8UFE/TiIeu__ks3I/AAAAAAAAAH8/H99ab3jhxxE/s800/dwt_per.png
 _Example:: 3 Level Decomposition of a piecewise regular signal using dwt with periodic extension_
+
+
+=== 2D::Decimated DWT (Symmetric Extension) ===
+
+2D DWT is similar to 1D in terms of options with one exception - you have an option of faster processing a color image by treating it as a grayscale image. This is due to speed issues in this implementation. Smaller Images ( < 512 X 512) shouldn't be too much of a nuisance on most systems.
+
+https://lh4.googleusercontent.com/-vCE6J6Fzwy4/TiImnLVRyII/AAAAAAAAAIA/_YoH_byEP9I/s800/sym2d.png
+_Example:: 2 level Decomposition of a 512-by-512 color image using dwt sym_
