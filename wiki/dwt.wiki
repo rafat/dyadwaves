@@ -32,3 +32,17 @@ _Example:: 3 Level Decomposition of a piecewise regular signal using dwt with pe
 
 https://lh4.googleusercontent.com/-vCE6J6Fzwy4/TiImnLVRyII/AAAAAAAAAIA/_YoH_byEP9I/s800/sym2d.png
 _Example:: 2 level Decomposition of a 512-by-512 color image using dwt sym_
+
+=== 2D::Stationary Wavelet Transform (UnDecimated) ===
+
+Same goes for Stationary Wavelet Transform with the additional caution that speed is an even bigger of an issue for high number of decomposition levels( > 2 actually if color image is large in size).
+
+https://lh4.googleusercontent.com/-nnAl_4iFtfI/TiD0r_WwmOI/AAAAAAAAAG8/ZwD5jAztMK0/s800/db1-2.png
+_Example:: 2 Level SWT Decomposition of a color image_
+
+=== 2D::Decimated DWT (Periodic Extension) ===
+
+
+
+
+https://lh3.googleusercontent.com/-Q0mOx66G6G8/TiIqHqai9rI/AAAAAAAAAII/GngqJBmFx0Q/s800/dwt2dper2.png
