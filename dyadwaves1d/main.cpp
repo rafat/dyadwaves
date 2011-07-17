@@ -25,12 +25,9 @@ extern "C" int _get_output_format( void ){ return 0; }
 int main(int argc, char *argv[])
 {
     QApplication a(argc, argv);
- //   QLibrary library("C:/Documents and Settings/USER/My Documents/Downloads/qtprojects/wavelet2-build-desktop/debug/libwavelet2.a");
- //   library.load();
+ 
     MainWindow w;
     w.setWindowState(Qt::WindowMaximized);
-   // w.resize(800,640);
-
     w.show();
 
     return a.exec();
