@@ -1,4 +1,3 @@
 == Approximation ==
 
-DyadWaves uses a very simple approximation algorithm. User can select the wavelet name from the DWT Dashboard, percent of non-zero coefficients and the wavelet name from the Approximation Dropdown menu. Based on the percentage selected, the algorithm calculates the threshold and zeroes all coefficients that have values below that threshold. Inverse DWT is then computed to reconstruct the signal from the non-zero coefficients.
-
+DyadWaves uses a very simple approximation algorithm. User can select the wavelet name from the DWT Dashboard, percent of non-zero coefficients and the wavelet mode(Either dwtper or dwtsym) from the Approximation Dropdown menu. Based on the percentage selected, the algorithm calculates the threshold and zeroes all coefficients that have values below that threshold. Inverse DWT is then computed to reconstruct the signal from the non-zero coefficients.
