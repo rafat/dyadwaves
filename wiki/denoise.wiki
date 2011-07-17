@@ -6,3 +6,9 @@
 
 https://lh4.googleusercontent.com/-RVlcs1Va7Cg/TiKZMrBvYRI/AAAAAAAAAIg/vtDpr9I91Qo/s800/denoisehs.png
 _Example:: 1D Denoising of Wavelab Heavisine signal( SNR 8dB) using sym8 wavelet with SWT 4-level Decomposition_
+
+
+=== 2D::Denoising ===
+
+https://lh5.googleusercontent.com/-hEASwaI7t5Y/TiKenbCxyoI/AAAAAAAAAIw/ZVLfzBP4m-A/s800/denoiselena.png
+_Example:: 2D bayesshrink Denoising of Lena 256X256 Image( SNR ~ 20 dB) using sym4 wavelet with dwtper 2 Level Decomposition_
