@@ -9,7 +9,7 @@ Documentation: http://code.google.com/p/dyadwaves/wiki/Overview
 License : GNU LGPL
 
 
-Source Code: See src folder. Latest code will be available at
+Source Code: See src folder of the download. Latest code will be available at
 http://code.google.com/p/dyadwaves/source/browse/#svn
 
 
