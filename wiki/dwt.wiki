@@ -1,6 +1,6 @@
 == Wavelet Transform ==
 
-   There are three wavelet transform modes - dwt_sym, swt and dwt_per. Each has same display system and the DWT output can be saved as a text file using the "Save DWT Output" button in the 1D mode and as image in 2D mode. 
+   There are three wavelet transform modes - dwt_sym, swt and dwt_per. All of them have same display system and the DWT output can be saved as text file using the "Save DWT Output" button in the 1D mode and as image in 2D mode. 
 
 === 1D::Decimated DWT (Symmetric Extension) ===
 
