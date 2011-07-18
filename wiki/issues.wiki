@@ -19,7 +19,7 @@ and it has some stability issues. There is also the matter of its speed not
 being upto the par and this will require some code rewrite from the scratch.
 In the meantime you may want to work in the grayscale mode for images 
 larger than 512 X 512. I've added "View DWT Report" button which will return
-the DWT computation time. If you come across any errors or you have any 
+the DWT computation time. *"View DWT Report" will NOT return accurate number of coefficients in dwt_sym case.* If you come across any errors or you have any 
 suggestions, complaints and/or advice I can be reached at
 
 rafat.hsn -at- gmail
