@@ -20,4 +20,6 @@ _Example:: 2D bayesshrink Denoising of House 256X256 Image( SNR ~ 20 dB) using s
 
 1.
 
-2.Iain M.Johnstone David L Donoho. Adapting to smoothness via wavelet shrinkage. Journal of the Statistical Association, 90(432):1200–1224, Dec 1995. [http://www-stat.stanford.edu/~donoho/reports.html#1993 Link]
+2. Iain M.Johnstone David L Donoho. Adapting to smoothness via wavelet shrinkage. _Journal of the Statistical Association, 90(432):1200–1224, Dec 1995._ [http://www-stat.stanford.edu/~donoho/reports.html#1993 Link]
+
+3.  Martin Vetterli S Grace Chang, Bin Yu. Adaptive wavelet thresholding for image denoising and compression. _IEEE Transactions on Image Processing, 9(9):1532–1546, Sep 2000._ [http://infoscience.epfl.ch/record/33854 Link]
