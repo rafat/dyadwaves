@@ -15,3 +15,9 @@ _Example:: 2D bayesshrink Denoising of Lena 256X256 Image( SNR ~ 20 dB) using sy
 
 https://lh3.googleusercontent.com/-lI4nYGX4lKI/TiKgJJxAUnI/AAAAAAAAAI8/587T2aOp5S4/s800/denoisehouse.png
 _Example:: 2D bayesshrink Denoising of House 256X256 Image( SNR ~ 20 dB) using sym4 wavelet with dwtsym 3 Level Decomposition_
+
+*DeNoising References*
+
+1.
+
+2.Iain M.Johnstone David L Donoho. Adapting to smoothness via wavelet shrinkage. Journal of the Statistical Association, 90(432):1200–1224, Dec 1995. [http://www-stat.stanford.edu/~donoho/reports.html#1993 Link]
