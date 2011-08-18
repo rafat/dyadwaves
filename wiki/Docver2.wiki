@@ -117,9 +117,15 @@
 
 <div class="Unindented"><div class="center">[https://lh6.googleusercontent.com/-xo5IklMYG7A/TkWmyrBWiXI/AAAAAAAAAJ8/3NCJ2NNmU5I/s912/dwt2dper2.png]</div></div>
 
-=3 Approximation*=
+=3 Approximation=
 
-<div class="Unindented"> DyadWaves uses a very simple approximation algorithm. User can select the wavelet name from the DWT Dashboard, percent of non-zero coefficients and the wavelet mode(Either dwt_per or dwt_sym) from the Approximation Dropdown menu. Based on the percentage selected, the algorithm calculates the hard universal threshold and zeroes all coefficients that have values below that threshold. Inverse DWT is then computed to reconstruct the signal from the non-zero coefficients. dwt_per has fewer coefficients so it gives better results in most cases. </div><div class="Indented"><div class="center">[[Image:appx1d.png|figure appx1d.png]]</div></div><div class="Indented"><div class="center">[[Image:appx2d.png|figure appx2d.png]]</div></div><div class="Indented"> *- No compression algorithms are implemented. This is just a demonstration of wavelet approximation properties. However, you can access 1D approximation coefficients which may be helpful in implementation of compression algorithms. </div>
+<div class="Unindented"> DyadWaves uses a very simple approximation algorithm. User can select the wavelet name from the DWT Dashboard, percent of non-zero coefficients and the wavelet mode(Either dwt_per or dwt_sym) from the Approximation Dropdown menu. Based on the percentage selected, the algorithm calculates the hard universal threshold and zeroes all coefficients that have values below that threshold. Inverse DWT is then computed to reconstruct the signal from the non-zero coefficients. dwt_per has fewer coefficients so it gives better results in most cases. </div>
+
+<div class="Indented"><div class="center">[https://lh5.googleusercontent.com/-GIRxtOCrg8g/TkWmFqa5w4I/AAAAAAAAAJY/uh3N-H5NZBk/s800/appx1d.png]</div></div>
+
+<div class="Indented"><div class="center">[https://lh4.googleusercontent.com/-Ec7WYwRGUHw/TkWmLgM4rFI/AAAAAAAAAJc/K1CokGZa7FY/s912/appx2d.png]</div></div>
+
+<div class="Indented"> Note-No compression algorithms are implemented. This is just a demonstration of wavelet approximation properties. However, you can access 1D approximation coefficients which may be helpful in implementation of compression algorithms. </div>
 
 =4 Denoising=
 
