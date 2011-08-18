@@ -85,15 +85,21 @@
 
 ==2.1 1D Decimated DWT (Symmetric Extension)==
 
-<div class="Unindented"> Of all the modes , this one is the best equipped to deal with signal boundary issues and gives excellent results for symmetric and nearly symmetric wavelets. Signal is symmetrically extended at every stage so there are no sharp jumps and discontinuities. On the negative side, there is some redundancy in the system as this isn’t an N input N output system. </div><div class="Indented"><div class="center">[[Image:db1.png|figure db1.png]]</div></div>
+<div class="Unindented"> Of all the modes , this one is the best equipped to deal with signal boundary issues and gives excellent results for symmetric and nearly symmetric wavelets. Signal is symmetrically extended at every stage so there are no sharp jumps and discontinuities. On the negative side, there is some redundancy in the system as this isn’t an N input N output system. </div>
+
+<div class="Indented"><div class="center">[https://lh4.googleusercontent.com/-1RNrzXrXE-Q/TkWmNZNtQYI/AAAAAAAAAJg/vMoztQgL4M4/s800/db1.png]</div></div>
 
 ==2.2 1D Stationary Wavelet Transform (Undecimated)==
 
-<div class="Unindented"> For 1D case, an N input signal yields 2XN output coefficients at each stage. There is more redundancy but it is useful in cases where translation-invariance is needed. This software also uses SWT (alongside the other two modes) for denoising. </div><div class="Indented"><div class="center">[[Image:swt.png|figure swt.png]]</div></div>
+<div class="Unindented"> For 1D case, an N input signal yields 2XN output coefficients at each stage. There is more redundancy but it is useful in cases where translation-invariance is needed. This software also uses SWT (alongside the other two modes) for denoising. </div>
+
+<div class="Indented"><div class="center">[https://lh6.googleusercontent.com/-jVroXdGz0y8/TkWm_UqTD6I/AAAAAAAAAKQ/bzQ40Z9y-3A/s912/swt.png]</div></div>
 
 ==2.3 1D Decimated DWT (Periodic Extension)==
 
-<div class="Unindented"> dwt_per mode is a N input and ~N output system and ,thus, often is the fastest scheme of the three.Although, periodic extension may sometimes result in subpar performance at the signal boundaries. Regardless, having least redundancy makes it suitable for some approximation applications. </div><div class="Indented"><div class="center">[[Image:dwt_per.png|figure dwt_per.png]]</div></div>
+<div class="Unindented"> dwt_per mode is a N input and ~N output system and ,thus, often is the fastest scheme of the three.Although, periodic extension may sometimes result in subpar performance at the signal boundaries. Regardless, having least redundancy makes it suitable for some approximation applications. </div>
+
+<div class="Indented"><div class="center">[https://lh3.googleusercontent.com/-TSltt_Fd7P0/TkWm3SDES4I/AAAAAAAAAKI/DSY1upFJaEg/s800/dwt_per.png]</div></div>
 
 ==2.4 2D Decimated DWT (Symmetric Extension)==
 
