@@ -1,6 +1,6 @@
-= DyadWaves =
+c= DyadWaves =
 
-  DyadWaves is an easy to use GUI for 1D and 2D Wavelet Transform. This software is pretty basic with functionality consisting of Wavelet Transform computation, signal/image approximation and denoising using up to three transform modes. It uses separate executables for 1D and 2D processing that are appropriately labeled. They should appear in your windows start menu and , if you so choose, your windows desktop. This software is build using c++ and Nokia's QT4(http://qt.nokia.com/). 1D Dyadwaves graphs are build using QWT library courtesy of Qwt project (http://qwt.sf.net).  FFT omputations are done using FFTW3 library(http://www.fftw.org/).
+  DyadWaves is an easy to use GUI for 1D and 2D Wavelet Transform. This software is pretty basic with functionality consisting of Wavelet Transform computation, signal/image approximation and denoising using up to three transform modes. It uses separate executables for 1D and 2D processing that are appropriately labeled. They should appear in your windows start menu and , if you so choose, your windows desktop. This software is build using c++ and Nokia's QT4(http://qt.nokia.com/). 1D Dyadwaves graphs are build using QWT library courtesy of Qwt project (http://qwt.sf.net).  FFT computations are done using FFTW3 library(http://www.fftw.org/).
 
 || [http://code.google.com/p/dyadwaves/wiki/Overview#Overview Overview] || Modes, Wavelets, Input/Output,Display ||
 || [http://code.google.com/p/dyadwaves/wiki/dwt Wavelet Transform] || DWT/SWT Computation in 1D and 2D ||
