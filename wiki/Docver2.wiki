@@ -55,7 +55,13 @@
 
 ==1.5 2D Interface==
 
-<div class="Unindented"> 2D interface display is similar to the 1D case minus any zoom functionality. However, if the images are large they may not fit in the application window or they may not appear proportionally to their dimensions. In such a case, you have the option of viewing full size image. There is also an option of viewing all DWT coefficients. These are liberally zeropadded in order to have a rectangular image. </div><div class="Indented"><div class="center">[[Image:disp2d-1.png|figure disp2d-1.png]]</div></div><div class="Indented"> Full size Decomposition can be viewed using “View FullSize Image” button. “Expansive View” is available for grayscale images and it consists of displaying all coefficients with extensive zeropadding to keep the dimensions rectangular. </div><div class="Indented"><div class="center">[[Image:disp2d-2.png|figure disp2d-2.png]]</div></div>
+<div class="Unindented"> 2D interface display is similar to the 1D case minus any zoom functionality. However, if the images are large they may not fit in the application window or they may not appear proportionally to their dimensions. In such a case, you have the option of viewing full size image. There is also an option of viewing all DWT coefficients. These are liberally zeropadded in order to have a rectangular image. </div>
+
+<div class="Indented"><div class="center">[https://lh5.googleusercontent.com/-U8m8GI93xpw/TkWmzhYRgcI/AAAAAAAAAKA/lIuAusQhcjw/s912/disp2d-1.png]</div></div>
+
+<div class="Indented"> Full size Decomposition can be viewed using “View FullSize Image” button. “Expansive View” is available for grayscale images and it consists of displaying all coefficients with extensive zeropadding to keep the dimensions rectangular. </div>
+
+<div class="Indented"><div class="center">[https://lh3.googleusercontent.com/-sN-HfS3ptJY/TkWm1EORU4I/AAAAAAAAAKE/_Yn8xD9rEtM/s912/disp2d-2.png]</div></div>
 
 ==1.6 Changes from Previous (0.1.2.2) Version==
 
