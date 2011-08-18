@@ -48,7 +48,10 @@
 
 <div class="Indented"><div class="center">[https://lh5.googleusercontent.com/-icBj6Pgn5NI/TkWmj68YufI/AAAAAAAAAJw/xctsSWJ3X1Q/s912/disp1d-1.png]</div></div>
 
-<div class="Indented"> Graphs can also be viewed and saved in printer-friendly format(blue on white). </div><div class="Indented"><div class="center">[[Image:disp1d-2.png|figure disp1d-2.png]]</div></div><div class="Indented"> Please also note that "save as PDF/SVG" format will also save outputs in the five image format and uses rendering of the graph which in most cases result in better quality ouputs. "Save as Image" is the quick and dirty format and will capture the pixmap as is so the results may not be up to par on many occasions. </div>
+<div class="Indented"> Graphs can also be viewed and saved in printer-friendly format(blue on white). </div>
+<div class="Indented"><div class="center">[https://lh4.googleusercontent.com/-c16Vn26tjVE/TkWmkpD4cPI/AAAAAAAAAJ0/EIkvJHfevwU/s912/disp1d-2.png]</div></div>
+
+<div class="Indented"> Please also note that "save as PDF/SVG" format will also save outputs in the five image format and uses rendering of the graph which in most cases result in better quality ouputs. "Save as Image" is the quick and dirty format and will capture the pixmap as is so the results may not be up to par on many occasions. </div>
 
 ==1.5 2D Interface==
 
