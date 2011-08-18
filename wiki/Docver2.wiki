@@ -103,15 +103,19 @@
 
 ==2.4 2D Decimated DWT (Symmetric Extension)==
 
-<div class="Unindented"> 2D DWT is similar to 1D in terms of options with one exception - you have an option of faster processing a color image by treating it as a grayscale image. This is due to speed issues in this implementation. Smaller Images ( < 512 X 512) shouldn’t be too much of a nuisance on most systems. </div><div class="Indented"><div class="center">[[Image:sym2d.png|figure sym2d.png]]</div></div>
+<div class="Unindented"> 2D DWT is similar to 1D in terms of options with one exception - you have an option of faster processing a color image by treating it as a grayscale image. This is due to speed issues in this implementation. Smaller Images ( < 512 X 512) shouldn’t be too much of a nuisance on most systems. </div>
+
+<div class="Indented"><div class="center">[https://lh6.googleusercontent.com/-wZfMH8_PVx0/TkWnQegHonI/AAAAAAAAAKY/st4sVnflZWo/s912/sym2d.png]</div></div>
 
 ==2.5 2D Stationary Wavelet Transform (Undecimated)==
 
-<div class="Unindented"> Same goes for Stationary Wavelet Transform with the additional caution that speed is an even bigger of an issue for high number of decomposition levels( > 2 actually if color image is large in size). </div><div class="Indented"><div class="center">[[Image:db1-2.png|figure db1-2.png]]</div></div>
+<div class="Unindented"> Same goes for Stationary Wavelet Transform with the additional caution that speed is an even bigger of an issue for high number of decomposition levels( > 2 actually if color image is large in size). </div>
+
+<div class="Indented"><div class="center">[https://lh3.googleusercontent.com/-LUtBGpDdr_I/TkWmbE61hrI/AAAAAAAAAJs/KrYEsn2MZvo/s912/db1-2.png]</div></div>
 
 ==2.6 2D Decimated DWT (Periodic Extension)==
 
-<div class="Unindented"><div class="center">[[Image:dwt2dper2.png|figure dwt2dper2.png]]</div></div>
+<div class="Unindented"><div class="center">[https://lh6.googleusercontent.com/-xo5IklMYG7A/TkWmyrBWiXI/AAAAAAAAAJ8/3NCJ2NNmU5I/s912/dwt2dper2.png]</div></div>
 
 =3 Approximation*=
 
