@@ -16,18 +16,18 @@
 
 <div class="Unindented"> There are three available modes. </div>
 
-# dwt_sym - Decimated Discrete Wavelet Transform using symmetric extension.
-# dwt_per - Decimated Discrete Wavelet Transform using periodic extension.
-# Stationary (Undecimated) Wavelet Transform. It also uses peiodic extension.
+1. dwt_sym - Decimated Discrete Wavelet Transform using symmetric extension.
+2. dwt_per - Decimated Discrete Wavelet Transform using periodic extension.
+3. Stationary (Undecimated) Wavelet Transform. It also uses peiodic extension.
 
 ==1.2 Wavelet Families==
 
 <div class="Unindented"> Four wavelet families are currently available. </div>
 
-# Daubechies- 15 orthogonal wavelets are available, ranging from 2-tap filters to 30-tap filters.
-# Biorthogonal - Symmetric filter non-orthogonal wavelets. bior1.1 to bior6.8
-# Coiflets - 5 wavelets. coif1 - coif5.
-# Symmlets - 10 wavelets from sym1 to sym10.
+1. Daubechies- 15 orthogonal wavelets are available, ranging from 2-tap filters to 30-tap filters.
+2. Biorthogonal - Symmetric filter non-orthogonal wavelets. bior1.1 to bior6.8
+3. Coiflets - 5 wavelets. coif1 - coif5.
+4. Symmlets - 10 wavelets from sym1 to sym10.
 
 <div class="Unindented"> Wavelets, associated filters and filter frequency response can be plotted by selecting the wavelet from the "Choose Wavelet Family" dropdown box in the DWT Dashboard and then using appropriate pushbuttons in the Display Dashboard as shown below. </div>
 
@@ -35,7 +35,9 @@
 
 <div class="Unindented"><div class="center">[https://lh3.googleusercontent.com/-fnDTnYKMDU8/TkWmFYYcIjI/AAAAAAAAAJU/PuxMQLfIEuQ/s800/wavedisp.png]</div></div>
 
-<div class="Indented"> 1D :: 1D I/O is very, very basic at this point. It accepts text/data files arranged in either one row or one column.To view the data format you may want to check the dyadwaves folder after running dyadwaves. Default signal is saved as defaultsignal.txt. You can save outputs (coefficients and processed signal) in the same 1D text/data format or you can save graphs as image/pdf/svg files. </div><div class="Indented"> 2D :: Input is in the form of images ( tif,tiff,jpeg,bmp,png). Output images can be saved in these same five formats. Two more formats are added - xbm and xpm for X11 systems. </div>
+<div class="Indented"> *1D* :: 1D I/O is very, very basic at this point. It accepts text/data files arranged in either one row or one column.To view the data format you may want to check the dyadwaves folder after running dyadwaves. Default signal is saved as defaultsignal.txt. You can save outputs (coefficients and processed signal) in the same 1D text/data format or you can save graphs as image/pdf/svg files. </div>
+
+<div class="Indented"> *2D* :: Input is in the form of images ( tif,tiff,jpeg,bmp,png). Output images can be saved in these same five formats. Two more formats are added - xbm and xpm for X11 systems. </div>
 
 ==1.4 1D Interface==
 
