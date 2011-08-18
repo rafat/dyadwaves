@@ -133,11 +133,17 @@
 
 ==4.1 1D Denoising==
 
-<div class="Unindented"> Example below shows 1D sureshrink Denoising of Wavelab Heavisine signal( SNR 8dB) using sym8 wavelet with SWT 4-level Decomposition </div><div class="Indented"><div class="center">[[Image:denoisehs.png|figure denoisehs.png]]</div></div>
+<div class="Unindented"> Example below shows 1D sureshrink Denoising of Wavelab Heavisine signal( SNR 8dB) using sym8 wavelet with SWT 4-level Decomposition </div>
+
+<div class="Indented"><div class="center">[https://lh3.googleusercontent.com/-zdbvrf4DGdQ/TkWmT2VOupI/AAAAAAAAAJk/1Ddl7Q5mfCk/s912/denoisehs.png]</div></div>
 
 ==4.2 2D Denoising==
 
-<div class="Unindented"> The two examples show 2D bayesshrink Denoising of Lena 256X256 Image( SNR ~ 20 dB) using sym4 wavelet with dwt_per 2 Level Decomposition and </div><div class="Indented"> 2D bayesshrink Denoising of House 256X256 Image( SNR ~ 20 dB) using sym4 wavelet with dwt_sym 3 Level Decomposition. </div><div class="Indented"><div class="center">[[Image:denoiselena.png|figure denoiselena.png]]</div></div><div class="Indented"><div class="center">[[Image:denoisehouse.png|figure denoisehouse.png]]</div></div>
+<div class="Unindented"> The two examples show 2D bayesshrink Denoising of Lena 256X256 Image( SNR ~ 20 dB) using sym4 wavelet with dwt_per 2 Level Decomposition and </div><div class="Indented"> 2D bayesshrink Denoising of House 256X256 Image( SNR ~ 20 dB) using sym4 wavelet with dwt_sym 3 Level Decomposition. </div>
+
+<div class="Indented"><div class="center">[https://lh4.googleusercontent.com/-BNj3DjZGiig/TkWml1h737I/AAAAAAAAAJ4/hda16_lkjkc/s800/denoiselena.png]</div></div>
+
+<div class="Indented"><div class="center">[https://lh3.googleusercontent.com/-eTNf8RUzRdY/TkWmaapEZ2I/AAAAAAAAAJo/Nhro5QAMbjc/s912/denoisehouse.png]</div></div>
 
 =5 Issues, FAQs and Contact=
 
