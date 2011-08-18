@@ -65,7 +65,19 @@
 
 ==1.6 Changes from Previous (0.1.2.2) Version==
 
-<div class="Unindented"> A couple of major and several minor changes: </div><div class="Indented"> 1. The Interface is slightly different. There are no Menu or Tool Bars. Menu can be accessed from the "INPUT MENU" button. This is done for aesthetics, performance and implementational reasons. </div><div class="Indented"> 2. Denoising Bug that caused Image Denoising to crash for 1-scale color Denoising has been fixed. </div><div class="Indented"> 3. Another Major fix involves getting rid of artifacts that were caused in approximated and denoised images because of QT4 using modulus of overflow RGB values instead of scaling them down. </div><div class="Indented"> 4. 1D DyadWaves now accepts *.dat files as well as *.txt files. It will also save coefficients in these two formats. The output is still restricteded to being 1D row/column vector. I expect to add more options in future releases. </div><div class="Indented"> 5. 2D DyadWaves2D loads/saves more image formats including X11 bitmap/pixmap formats. </div><div class="Indented"> 6. Image FFT can now be saved in all available image formats. </div>
+<div class="Unindented"> A couple of major and several minor changes: </div>
+
+<div class="Indented"> 1. The Interface is slightly different. There are no Menu or Tool Bars. Menu can be accessed from the "INPUT MENU" button. This is done for aesthetics, performance and implementational reasons. </div>
+
+<div class="Indented"> 2. Denoising Bug that caused Image Denoising to crash for 1-scale color Denoising has been fixed. </div>
+
+<div class="Indented"> 3. Another Major fix involves getting rid of artifacts that were caused in approximated and denoised images because of QT4 using modulus of overflow RGB values instead of scaling them down. </div>
+
+<div class="Indented"> 4. 1D DyadWaves now accepts *.dat files as well as *.txt files. It will also save coefficients in these two formats. The output is still restricteded to being 1D row/column vector. I expect to add more options in future releases. </div>
+
+<div class="Indented"> 5. 2D DyadWaves2D loads/saves more image formats including X11 bitmap/pixmap formats. </div>
+
+<div class="Indented"> 6. Image FFT can now be saved in all available image formats. </div>
 
 =2 Wavelet Transform=
 
