@@ -1,6 +1,6 @@
 <div id="globalWrapper">
 
-=DyadWaves version 0.2.0.0=
+=DyadWaves version 0.2.0.1=
 
 ==Documentation==
 
@@ -145,7 +145,7 @@
 
 =5 Issues, FAQs and Contact=
 
-<div class="Unindented"> DyadWaves version 0.2.0.0 </div><div class="Indented"> Documentation: http://code.google.com/p/dyadwaves/wiki/Overview and http://dyadwaves.sourceforge.net </div><div class="Indented"> License : GNU LGPL </div><div class="Indented"> Source Code: See src folder of the download. Latest code will be available at http://code.google.com/p/dyadwaves/source/browse/#svn </div><div class="Indented">'''Notes on Linux Installation''' : This version also contains a Linux tarball (dyadwaves.tar.gz). All the images shown above are screenshots of dyadwaves running in Ubuntu 10.04LTS. I have also tested the tarball on Ubuntu 7.10. Please read the README file in dyadwaves.tar.gz. </div><div class="Indented"> This Wavelet GUI for windows/unix systems is practically in alpha testing stage and it has some stability issues. There is also the matter of its speed not being upto the par and this will require some code rewrite from the scratch. In the meantime you may want to work in the grayscale mode for images larger than 512 X 512. I’ve added "View DWT Report" button which will return the DWT computation time so you can plan accordingly. "View DWT Report" will NOT return accurate number of coefficients in 1D dwt_sym case. If you come across any errors or you have any suggestions, complaints and/or advice I can be reached at </div><div class="Indented"> rafat.hsn -at- gmail.com </div>
+<div class="Unindented"> DyadWaves version 0.2.0.1 </div><div class="Indented"> Documentation: http://code.google.com/p/dyadwaves/wiki/Overview and http://dyadwaves.sourceforge.net </div><div class="Indented"> License : GNU GPL </div><div class="Indented"> Source Code: See src folder of the download. Latest code will be available at http://code.google.com/p/dyadwaves/source/browse/#svn </div><div class="Indented">'''Notes on Linux Installation''' : This version also contains a Linux tarball (dyadwaves.tar.gz). All the images shown above are screenshots of dyadwaves running in Ubuntu 10.04LTS. I have also tested the tarball on Ubuntu 7.10. Please read the README file in dyadwaves.tar.gz. </div><div class="Indented"> This Wavelet GUI for windows/unix systems is practically in alpha testing stage and it has some stability issues. There is also the matter of its speed not being upto the par and this will require some code rewrite from the scratch. In the meantime you may want to work in the grayscale mode for images larger than 512 X 512. I’ve added "View DWT Report" button which will return the DWT computation time so you can plan accordingly. "View DWT Report" will NOT return accurate number of coefficients in 1D dwt_sym case. If you come across any errors or you have any suggestions, complaints and/or advice I can be reached at </div><div class="Indented"> rafat.hsn -at- gmail.com </div>
 ----
 
 Copyright (C) Rafat Hussain, 2011 Documentation
